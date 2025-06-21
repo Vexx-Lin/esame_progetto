@@ -1,0 +1,54 @@
+:root {
+    --primary-color-category: "";
+    --secondary-color-category: "";
+    --tertiary-color-category: "";
+}
+
+#start-section {
+    width: 100%;
+    height: 100%;
+    background-image: url('../public/home-bg.jpeg'); /* replace with your image path */
+    background-size: cover;      /* ensures it covers the whole viewport */
+    background-position: center; /* centers the image */
+    background-repeat: no-repeat;/* prevents tiling */
+    background-attachment: fixed;/* optional: makes it stay on scroll */
+}
+
+#start-section > div {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#end-section {
+    background-image: url('../public/home-bg.jpeg'); /* replace with your image path */
+    background-size: cover;      /* ensures it covers the whole viewport */
+    background-position: center; /* centers the image */
+    background-repeat: no-repeat;/* prevents tiling */
+    background-attachment: fixed;/* optional: makes it stay on scroll */
+    justify-content: center;
+    align-items: center;
+}
+
+#card-section {
+    font-family: 'Montserrat', sans-serif;
+    padding: 25px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 12px;
+    backdrop-filter: blur(5px);
+}
+
+#card-section img {
+    max-width: 30%;
+    max-height: 30%;
+}
+
+#card-section .button-approfondisci {
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: 0;
+}

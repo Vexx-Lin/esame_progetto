@@ -1,0 +1,20 @@
+{
+  "fact": "Il calamaro gigante ha occhi grandi quanto un piatto da cena.",
+  "title": "Perché i calamari giganti hanno occhi enormi?",
+  "image": "https://wallpapers.com/images/hd/giant-squid-pictures-whl3401jrmxez6bf.jpg",
+  "articleLink": "https://ocean.si.edu/ocean-life/invertebrates/giant-squid",
+  "list": [
+    {
+      "head": "✧ Visione nelle profondità",
+      "text": "Occhi grandi captano la luce minima degli abissi oceanici."
+    },
+    {
+      "head": "✧ Rilevamento dei predatori",
+      "text": "Aiutano a vedere i movimenti dei capodogli, loro nemici naturali."
+    },
+    {
+      "head": "✧ Pressione ambientale",
+      "text": "La loro struttura è adattata a resistere alla pressione estrema."
+    }
+  ]
+}

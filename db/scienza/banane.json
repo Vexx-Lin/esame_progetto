@@ -1,0 +1,20 @@
+{
+  "fact": "Condividiamo circa il 50% del nostro DNA con le banane.",
+  "title": "Siamo per metà banane?",
+  "image": "public/banana.png",
+  "articleLink": "https://www.snopes.com/fact-check/banana-human-genetics/",
+  "list": [
+    {
+      "head": "✧ DNA universale",
+      "text": "Tutti gli esseri viventi condividono i mattoni genetici di base."
+    },
+    {
+      "head": "✧ Funzioni cellulari simili",
+      "text": "Meccanismi fondamentali come la replicazione del DNA sono condivisi."
+    },
+    {
+      "head": "✧ Evoluzione comune",
+      "text": "Abbiamo un antenato cellulare in comune di miliardi di anni fa."
+    }
+  ]
+}

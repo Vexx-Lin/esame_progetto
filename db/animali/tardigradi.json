@@ -1,0 +1,20 @@
+{
+  "fact": "I tardigradi sopravvivono anche nel vuoto dello spazio.",
+  "title": "Gli invincibili: tardigradi nello spazio",
+  "image": "public/tardigrado.png",
+  "articleLink": "https://www.nationalgeographic.com/science/article/tardigrades-become-first-animals-to-survive-vacuum-of-space",
+  "list": [
+    {
+      "head": "✧ Ciste criptobiotica",
+      "text": "Entrano in uno stato dormiente che blocca il metabolismo."
+    },
+    {
+      "head": "✧ Proteine schermanti",
+      "text": "Proteine uniche proteggono il DNA dalle radiazioni cosmiche."
+    },
+    {
+      "head": "✧ Disidratazione estrema",
+      "text": "Possono perdere fino al 97% del contenuto d'acqua corporeo."
+    }
+  ]
+}

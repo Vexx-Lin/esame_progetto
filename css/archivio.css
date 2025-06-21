@@ -1,0 +1,24 @@
+:root {
+    --primary-color-scienza: "";
+    --secondary-color-scienza: "";
+    --tertiary-color-scienza: "";
+}
+
+#scienza-cosmica li::marker {
+    color: var(--secondary-color-scienza);
+}
+
+#creature-planetarie li::marker {
+    color: #4682b4;
+}
+
+#cronache-stellari li::marker {
+    color: #b22222;
+}
+
+#archive-index hr {
+    height: 2px;
+    width: 100%;
+    opacity: 1;
+    border-top: 0;
+}
